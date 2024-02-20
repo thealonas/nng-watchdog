@@ -1,0 +1,7 @@
+websocket-client
+requests
+pydantic<3.0.0
+vk-api
+onepasswordconnectsdk
+sentry-sdk
+nng_sdk @ git+https://github.com/thealonas/nng-sdk@master
